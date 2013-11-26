@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TubeTech",
+  "name": "TubeTech",
+  "description": "Nixie Tubes?!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/CCM-Modding/TubeTech",
+  "updateUrl": "",
+  "authors": ["Dries007", "Claycorp"],
+  "credits": "Morton for textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
