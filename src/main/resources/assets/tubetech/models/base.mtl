@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 25.11.2013 18:26:56
+# File Created: 09.12.2013 11:38:29
 
 newmtl Material__30
 	Ns 10.0000
@@ -12,6 +12,5 @@ newmtl Material__30
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\Morton\Desktop\nixie_base.png
-	map_Kd C:\Users\Morton\Desktop\nixie_base.png
-	map_d C:\Users\Morton\Desktop\nixie_base - Copy.png
+	map_Ka C:\Users\Morton\Google Drive\CCM\Mods\Nixie Tube\Resources\nixie_base.png
+	map_Kd C:\Users\Morton\Google Drive\CCM\Mods\Nixie Tube\Resources\nixie_base.png
